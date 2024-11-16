@@ -1,13 +1,9 @@
 <div align="center">
-  <img src="https://i.imgur.com/XYZ123.png" alt="Heirary Logo" width="300"/>
+ ![Screenshot 2024-11-17 002910](https://github.com/user-attachments/assets/61cc0616-3f67-41db-8e6d-12d7a5dd4849)
 
   # Heirary: Inheritance Reimagined
-  
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-  [![Discord](https://img.shields.io/discord/1234567890?color=7289DA&label=Discord&logo=discord)](https://discord.gg/heirary)
-  [![Twitter Follow](https://img.shields.io/twitter/follow/HeiraryProtocol?style=social)](https://twitter.com/HeiraryProtocol)
 
-  *Where Legacy Meets Technology*
+  *Where Your Diary Meets Intelligence*
 </div>
 
 ---
