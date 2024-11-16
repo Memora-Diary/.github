@@ -22,6 +22,9 @@ Imagine your life's story, intelligently preserved and shared exactly how you en
 - **Memory Capsules**: Digital whispers from the past, delivered at just the right time
 - **Guardian AI**: Your legacy's faithful protector, ensuring your wishes echo through time
 
+![image](https://github.com/user-attachments/assets/7a65a775-7ec6-4fb1-b574-0574bf2fd86c)
+
+
 ### The Magic Behind the Scenes 🎭
 ```solidity
 contract InheritanceContract {
