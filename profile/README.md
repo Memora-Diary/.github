@@ -1,6 +1,7 @@
-# Heirary
-## Where Your Diary Meets Intelligence
-### Your Legacy, Intelligently Preserved
+<p align="center">
+  <h1>Heirary</h1>
+  <h2>Where Your Diary Meets Intelligence</h2>
+</p>
 
 ---
 
