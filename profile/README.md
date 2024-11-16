@@ -1,12 +1,12 @@
 <div align="center">
- ![Screenshot 2024-11-17 002910](https://github.com/user-attachments/assets/61cc0616-3f67-41db-8e6d-12d7a5dd4849)
-
-  # Heirary: Inheritance Reimagined
+ #Heirary: Inheritance Reimagined
 
   *Where Your Diary Meets Intelligence*
 </div>
 
 ---
+
+<a href="https://ibb.co/g7cLW5b"><img src="https://i.ibb.co/X4Gr5hf/Screenshot-2024-11-17-002910.png" alt="Screenshot-2024-11-17-002910" border="0"></a>
 
 ## 🌟 What is Heirary?
 
