@@ -1,4 +1,3 @@
-![Screenshot 2024-11-17 033911](https://github.com/user-attachments/assets/62661a2e-3d8a-4ab0-9e75-450df723b87e)<p align="center">
   <h1 align="center">✨ Heirary</h1>
   <h2 align="center">Where Your Diary Meets Intelligence</h2>
 </p>
