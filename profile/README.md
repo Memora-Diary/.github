@@ -1,4 +1,5 @@
-# Heirary: Where Your Diary Meets Intelligence
+# Heirary
+## Where Your Diary Meets Intelligence
 ### Your Legacy, Intelligently Preserved
 
 ---
@@ -9,6 +10,8 @@
 
 ## The Future of Legacy ✨
 Imagine your life's story, intelligently preserved and shared exactly how you envision it. Heirary isn't just another blockchain platform - it's your digital legacy companion, transforming how your memories, assets, and wishes live on through time.
+
+![Screenshot 2024-11-17 003433](https://github.com/user-attachments/assets/fcb638c8-b206-435c-ae01-e756baa02266)
 
 ## Why Heirary? 🌟
 
