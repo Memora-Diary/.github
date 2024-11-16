@@ -1,123 +1,103 @@
-<div align="center">
- #Heirary: Inheritance Reimagined
-
-  *Where Your Diary Meets Intelligence*
-</div>
+# Heirary: Where Your Diary Meets Intelligence
+### Your Legacy, Intelligently Preserved
 
 ---
 
-<a href="https://ibb.co/g7cLW5b"><img src="https://i.ibb.co/X4Gr5hf/Screenshot-2024-11-17-002910.png" alt="Screenshot-2024-11-17-002910" border="0"></a>
+![Heirary Platform](https://github.com/user-attachments/assets/4b0c0bab-1472-450b-a0ea-34062dee7b6b)
 
-## 🌟 What is Heirary?
+> "Beyond inheritance - we're crafting digital time capsules of your life's most precious moments."
 
-Heirary is a groundbreaking blockchain platform that revolutionizes how we think about inheritance and digital legacy. By combining smart contracts with AI-powered verification, we create seamless, automated inheritance solutions for the digital age.
+## The Future of Legacy ✨
+Imagine your life's story, intelligently preserved and shared exactly how you envision it. Heirary isn't just another blockchain platform - it's your digital legacy companion, transforming how your memories, assets, and wishes live on through time.
 
-<div align="center">
-  <img src="https://i.imgur.com/ABC456.png" alt="Heirary Platform Overview" width="800"/>
-</div>
+## Why Heirary? 🌟
 
-### 🎯 The Heirary Promise
+### Smart Legacy, Smarter Future
+- **Intelligent NFT Stories**: Your memories, transformed into living digital heirlooms
+- **Time-Woven Bitcoin Vaults**: Cryptocurrency inheritance that unfolds with life's beautiful moments
+- **Memory Capsules**: Digital whispers from the past, delivered at just the right time
+- **Guardian AI**: Your legacy's faithful protector, ensuring your wishes echo through time
 
-> "Your legacy is more than just assets - it's about ensuring your wishes are honored and your story continues."
-
-We transform traditional inheritance through:
-- **Smart Inheritance NFTs**: Automated asset transfers triggered by life events
-- **Secure BTC Vaults**: Conditional Bitcoin transfers with AI verification
-- **Digital Time Capsules**: Encrypted messages and memories released at the right moment
-- **Legacy Guardian AI**: Intelligent monitoring of inheritance conditions
-
-<div align="center">
-  <img src="https://i.imgur.com/DEF789.png" alt="Heirary Features" width="600"/>
-</div>
-
-## 🔮 Technology Stack
-
-### Blockchain Innovation
+### The Magic Behind the Scenes 🎭
 ```solidity
-// Inheritance becomes smart and automated
-if (lifeEvent === "marriage") {
-    transferAssets(spouse_address);
-} else if (lifeEvent === "graduation") {
-    releaseBTCEscrow(graduate_address);
+contract InheritanceContract {
+    function executeTransfer(
+        address beneficiary, 
+        string memory eventType
+    ) public verified {
+        if (verifyLifeEvent(eventType)) {
+            transferAssets(beneficiary);
+            emit InheritanceExecuted(beneficiary, eventType);
+        }
+    }
 }
 ```
 
-### AI-Powered Verification System
-Our Guardian AI provides:
-- 📝 Real-time life event monitoring
-- 🤖 Multi-source event verification
-- 🎯 Automated inheritance execution
-- 💌 Secure message delivery
+### Your Story, Secured by Innovation 🛡️
+- **Nillion-Grade Protection**: Your memories, wrapped in unbreakable encryption
+- **Cross-Chain Symphony**: Seamless harmony across blockchain networks
+- **Real-Time Heartbeat**: Stay connected to your legacy's pulse
+- **Consensus Guardian**: Decentralized protection for your digital inheritance
 
-### Enterprise-Grade Security
-- 🔐 Nillion Network data encryption
-- 🛡️ Cross-chain deployment
-- 📡 Real-time Push notifications
-- 🤝 Decentralized consensus
+## For Life's Greatest Moments
 
-<div align="center">
-  <img src="https://i.imgur.com/GHI012.png" alt="Heirary Security" width="400"/>
-</div>
+### Personal Treasures 💝
+- Wedding day inheritance surprises
+- Achievement-unlocked rewards
+- Automated legacy fulfillment
+- Future messages to loved ones
 
-## 💫 Applications
+### Business Legacy 🌐
+- Seamless succession stories
+- Milestone-based rewards
+- Partnership continuity magic
+- Enterprise legacy architects
 
-### Personal Legacy
-- 💍 Marriage-activated inheritances
-- 🎓 Educational achievement rewards
-- ⚖️ Smart will execution
-- 💝 Future message delivery
-
-### Business Solutions
-- 🏢 Business succession automation
-- 📈 Milestone-based asset distribution
-- 🤝 Partnership continuity
-- 📊 Legacy planning for enterprises
-
-## 🚀 Quick Start
+## Begin Your Legacy Journey
 
 ```bash
-# Begin your legacy journey
-git clone https://github.com/heirary/heirary-backend.git
+# Start your legacy story
+git clone https://github.com/heirary/core.git
+cd heirary-core
 
-# Set up dependencies
+# Weave your first memory
 npm install
 
-# Launch your legacy guardian
-npm start
+# Set your story's stage
+cp .env.example .env
+nano .env
+
+# Awaken your guardian
+npm run guardian:start
 ```
 
-## 🛠 Core Components
+## The Pillars of Your Legacy
 
-### Smart Contract Layer
-- NFT-based inheritance contracts
-- BTC escrow management
-- Multi-chain support
-- Event verification
+### Smart Contract Canvas
+- NFT story-weaving
+- Multi-signature safeguards
+- Cross-chain bridges
+- Event-driven magic
 
-### AI Guardian System
-- Life event monitoring
-- Condition verification
-- Automated execution
-- Secure messaging
+### AI Guardian Angels
+- Life moment watchers
+- Truth seekers
+- Automated storytellers
+- Secure message carriers
 
-### Security Infrastructure
-- End-to-end encryption
-- Decentralized storage
-- Real-time notifications
-- Multi-sig protection
+### Fortress of Trust
+- End-to-end story protection
+- Distributed memory vaults
+- Instant whispers system
+- Multi-key shields
 
-## 🌐 Connect With Us
-
-<div align="center">
-  <a href="https://heirary.xyz">Website</a> • 
-  <a href="https://docs.heirary.xyz">Documentation</a> • 
-  <a href="https://discord.gg/heirary">Discord</a> • 
-  <a href="https://twitter.com/HeiraryProtocol">Twitter</a>
-</div>
+## Join Our Legacy Builders
+[Begin Your Story](https://heirary.xyz) • [Read Our Tales](https://docs.heirary.xyz) • [Join the Circle](https://discord.gg/heirary) • [Follow the Journey](https://twitter.com/HeiraryProtocol)
 
 ---
 
 <div align="center">
-  <h3>Built with 💎 by the Heirary Team</h3>
-  <i>Securing Tomorrow's Legacy, Today</i>
+  <i>Heirary: Where Every Memory Finds Its Tomorrow</i>
 </div>
+
+© 2024 Heirary Protocol. All rights reserved.
